@@ -1150,16 +1150,16 @@ a {
     width: 33.333333%;
     display: flex;
     align-items: center;
-    background: #ccc;
+    background: #222222;
     margin: 20px 0px 40px;
 }
 
 .box-03 .conteudo .item:first-child {
-    background: #666;
+    background: #000000;
 }
 
 .box-03 .conteudo .item:last-child {
-    background: #aaa;
+    background: #666666;
 }
 
 .box-03 .conteudo .item .numero {
