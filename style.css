@@ -205,7 +205,7 @@ a {
 }
 
 .contato [required="required"] {
-    background: #eee url(../pw-images/required.png) center right 10px no-repeat;
+    background: #eee url(img/contatostar.png) center right 10px no-repeat;
     background-size: 9px
 }
 
