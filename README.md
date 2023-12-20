@@ -8,7 +8,7 @@
   O sistema apresentado é um software multi-cliente destinado ao mercado financeiro/empresarial, com metas lucrativas e um considerável potencial de crescimento a longo prazo.
 </p>
 <p>
-  Todo o desenvolvimento do projeto, incluindo o protótipo e a documentação, foi realizado pelos membros do grupo. A seguir, será apresentada uma visão abrangente do projeto.
+  Todo o desenvolvimento do projeto, desde os Wireframes, protótipo até a documentação, foi realizado pelos membros do grupo. A seguir, será apresentada uma visão abrangente do projeto.
 </p>
 
 <h2>Documentação</h2>
