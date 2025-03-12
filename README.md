@@ -1,5 +1,3 @@
-# solow
-
 <h1>Projeto Solow</h1>
 
 <h2>Introdução</h2>
